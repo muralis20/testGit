@@ -1,4 +1,4 @@
-test b2 recursive without conflict
+test b2 recursive without conflict test gui
 test B3 new branch conflict
 push
 pull test
