@@ -2,3 +2,4 @@ test b2 recursive without conflict
 test B3 new branch conflict
 push
 pull test
+test fetch
